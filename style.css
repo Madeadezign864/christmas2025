@@ -8,6 +8,7 @@
     transition: 0.3s ease-in-out;
     border-style:solid; color:darkgreen;
     border-radius: 1%;
+    
   }
 
   .col-10{
@@ -31,8 +32,9 @@
     text-shadow: 1px 1px greenyellow ;
   }
   footer{
-    margin-top: 50px;
-    background-color:rgb(224, 252, 215);
-    height:150px;
+    margin-top: 270px;
+    height:190px;
   }
-  
+  h1{
+    padding-bottom: 20px;
+  }
