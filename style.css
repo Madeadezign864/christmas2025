@@ -1,0 +1,38 @@
+.row{
+        height:auto;
+        padding-top: 50px;
+        background-color:lightgoldenrodyellow;
+    }
+    img {
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    border-style:solid; color:darkgreen;
+    border-radius: 1%;
+  }
+
+  .col-10{
+    display:block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+  }
+  #christ{
+    text-shadow: 2px 2px greenyellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .text-center{
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 500;
+    text-align: center;
+    justify-content: center;
+    text-shadow: 1px 1px greenyellow ;
+  }
+  footer{
+    margin-top: 50px;
+    background-color:rgb(224, 252, 215);
+    height:150px;
+  }
+  
